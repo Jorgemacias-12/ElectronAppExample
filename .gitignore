@@ -1,0 +1,22 @@
+# Carpeta node_modules generada por npm
+node_modules/
+
+# Carpeta dist generada por la construcción del proyecto
+dist/
+
+# Archivos de configuración locales
+config.local.js
+.env
+
+# Archivos de registro
+*.log
+
+# Archivo de caché de npm
+npm-debug.log
+
+# Carpeta de respaldo
+*.bak
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
